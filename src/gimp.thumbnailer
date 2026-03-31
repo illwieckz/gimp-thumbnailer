@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=gimp-cli
+Exec=gimp-thumbnailer -s %s %i %o
+MimeType=image/x-xcf;image/x-compressed-xcf;
